@@ -1,4 +1,4 @@
-module all_opcodes;
+module all_parameters;
 	parameter ADD=6'b000000,
 		  SUB=6'b000001,
 		  AND=6'b000010,
