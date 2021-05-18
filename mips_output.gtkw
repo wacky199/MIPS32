@@ -1,0 +1,45 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Tue May 18 08:44:44 2021
+[*]
+[dumpfile] "/home/shivam/Documents/verilog-related/MIPS32(Project)/mips.vcd"
+[dumpfile_mtime] "Tue May 18 08:33:30 2021"
+[dumpfile_size] 3933
+[savefile] "/home/shivam/Documents/verilog-related/MIPS32(Project)/mips_output.gtkw"
+[timestart] 2
+[size] 1920 1016
+[pos] -51 -51
+*-4.371252 43 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] testbench_mips32.
+[sst_width] 48
+[signals_width] 267
+[sst_expanded] 0
+[sst_vpaned_height] 289
+@28
+testbench_mips32.mips.clk1
+testbench_mips32.mips.clk2
+@22
+testbench_mips32.mips.PC[31:0]
+testbench_mips32.mips.IF_ID_IR[31:0]
+testbench_mips32.mips.IF_ID_NPC[31:0]
+testbench_mips32.mips.ID_EX_A[31:0]
+testbench_mips32.mips.ID_EX_B[31:0]
+testbench_mips32.mips.ID_EX_IR[31:0]
+testbench_mips32.mips.ID_EX_Imm[31:0]
+testbench_mips32.mips.ID_EX_NPC[31:0]
+@28
+testbench_mips32.mips.ID_EX_type[2:0]
+@22
+testbench_mips32.mips.EX_MEM_ALUOut[31:0]
+testbench_mips32.mips.EX_MEM_B[31:0]
+testbench_mips32.mips.EX_MEM_IR[31:0]
+@28
+testbench_mips32.mips.EX_MEM_type[2:0]
+@22
+testbench_mips32.mips.MEM_WB_ALUOut[31:0]
+testbench_mips32.mips.MEM_WB_IR[31:0]
+testbench_mips32.mips.MEM_WB_LMD[31:0]
+@28
+testbench_mips32.mips.MEM_WB_type[2:0]
+[pattern_trace] 1
+[pattern_trace] 0
